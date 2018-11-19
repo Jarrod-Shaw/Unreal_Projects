@@ -1,0 +1,3 @@
+C:\Unreal_Projects\Projects\3D_Physics_DiceRoller\DiceRoller\Source\DiceRoller\DiceRoller.Build.cs
+C:\Unreal_Projects\Projects\3D_Physics_DiceRoller\DiceRoller\Source\DiceRoller.Target.cs
+C:\Unreal_Projects\Projects\3D_Physics_DiceRoller\DiceRoller\Source\DiceRollerEditor.Target.cs

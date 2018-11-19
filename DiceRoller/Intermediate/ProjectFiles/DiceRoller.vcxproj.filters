@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DiceRoller.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6576E0E8-7D07-454F-B40D-5642374C2F6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DiceRoller.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DiceRollerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{34E21577-66E6-494D-A083-7CE056F9B85F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DiceRoller">
+      <UniqueIdentifier>{5400834A-3560-4FC2-B3C8-5200C26DADF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DiceRoller\DiceRoller.Build.cs">
+      <Filter>Source\DiceRoller</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DiceRoller\DiceRoller.cpp">
+      <Filter>Source\DiceRoller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DiceRoller\DiceRoller.h">
+      <Filter>Source\DiceRoller</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DiceRoller\DiceRollerGameModeBase.cpp">
+      <Filter>Source\DiceRoller</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DiceRoller\DiceRollerGameModeBase.h">
+      <Filter>Source\DiceRoller</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
