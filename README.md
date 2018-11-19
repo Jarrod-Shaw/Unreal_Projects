@@ -3,10 +3,6 @@ Here are the projects I am currently working on in Unreal Engine 4
 # Outline
 <ul style="list-style-type:circle">
     <ul>
-	<li>Flight Simulator</li>
-	    <ul>
-		  <li>An attempt to create a flight simulator for the player to fly various aircraft. </li>
-	    </ul>
 	<li>Phoenix Rising</li>
 	    <ul>
 	      <li>This is a top-down shooter where the Player can go on several missions, and fly various aircraft each with their own flight characteristics.  </li>
@@ -66,22 +62,3 @@ Top Down Arcade syle shooter. Player is able to select multiple aircraft each wi
     </ul>	
 </ul>
 
-# FlightSim
-
-Flight Simulator - Fighters and bombers that the player will be able to fly!
-
-## Target platforms
-<ul style="list-style-type:circle">
-  <li>Windows</li>
-    <ul>
-    <li>Develop on / for Windows 10</li>
-    </ul>
-  <li>Mac</li>
-    <ul>
-    <li>Future Release</li>
-    </ul>
-  <li>Linux</li>
-    <ul>
-    <li>Future Release / TBD</li>
-    </ul>	
-</ul>
