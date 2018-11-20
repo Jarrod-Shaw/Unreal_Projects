@@ -3,7 +3,7 @@ Here are the projects I am currently working on in Unreal Engine 4
 # Outline
 <ul style="list-style-type:circle">
     <ul>
-	<li>Phoenix Rising</li>
+	<li>Maj Phoenix</li>
 	    <ul>
 	      <li>This is a top-down shooter where the Player can go on several missions, and fly various aircraft each with their own flight characteristics.  </li>
 	    </ul>
